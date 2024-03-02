@@ -1,0 +1,32 @@
+.note
+{
+    font-size: 17px;
+    color: rgb(111, 253, 220);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px lightgray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.copy_right_footer
+{
+    color:ghostwhite;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color:rgb(0, 0, 0);
+    line-height: 2;
+    text-align: center;
+}
+
+canvas
+{
+    margin: 0px;
+    box-shadow: 5px 5px 5px lightgray;
+}
